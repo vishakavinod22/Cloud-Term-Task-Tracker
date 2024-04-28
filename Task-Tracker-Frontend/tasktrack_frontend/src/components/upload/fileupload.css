@@ -1,0 +1,16 @@
+.drop-box {
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    margin: 50px;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 18px;
+    color: #C4DFE6;
+    background-color: #fff;
+}
+
+.drop-box p{
+    margin-top: 20px;
+}
+  
+  

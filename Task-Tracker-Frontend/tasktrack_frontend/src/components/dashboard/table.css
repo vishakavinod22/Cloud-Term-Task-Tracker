@@ -1,0 +1,40 @@
+.greeting {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin: 50px 0 0 50px;
+}
+
+.table-container {
+    padding: 50px;
+}
+
+.table_toolbar{
+    background-color: #66A5AD;
+}
+
+#tableTitle{
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.icons{
+    color: #fff;
+    background-color: #C4DFE6;
+}
+
+#p_row{
+    padding-left: 42px;
+}
+
+#d_row{
+   width: 60%;
+}
+
+#row_per_page_text{
+    color: #66A5AD;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+  
