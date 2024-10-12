@@ -40,18 +40,8 @@ Growing up, I noticed that communication gaps between teachers, parents, and stu
 ### Add Task Form
 ![Add Task Form](./images/AddTask.png)
 
-[//]: # (### Project Demo)
-
-[//]: # ([Watch the full project demo]&#40;./demo/ProjectDemo.mp4&#41;)
-
-[//]: # ()
-[//]: # (<video width="600" controls>)
-
-[//]: # (  <source src="./demo/demo-video.mp4" type="video/mp4">)
-
-[//]: # (  Your browser does not support the video tag.)
-
-[//]: # (</video>)
+### Project Demo
+Click [here](https://youtu.be/6ehHeEVdnFw) to watch the full project demo.
 
 ## Performance Targets
 
